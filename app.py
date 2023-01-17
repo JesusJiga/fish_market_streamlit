@@ -4,6 +4,8 @@ import joblib
 
 st.title("You can know the weight!")
 
+st.image("fish_market.jpg", width = 200)
+
 st.text("Please, if you want a correct answer, introduce a real data.")
 
 specie = st.selectbox("Select Specie", ('Bream', 'Roach', 'Whitefish', 'Parkki', 'Pike', 'Perch', 'Smelt'))
