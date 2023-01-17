@@ -4,7 +4,7 @@ import joblib
 
 st.title("You can know the weight!")
 
-st.image("fish_market.jpg", width = 400)
+st.image("fish_market.jpg", width = 700)
 
 st.text("Please, if you want a correct answer, introduce a real data.")
 
